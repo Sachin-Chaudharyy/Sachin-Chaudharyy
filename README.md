@@ -29,11 +29,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin-Chaudharyy&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-Chaudharyy&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sachin-Chaudharyy&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Chaudharyy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Chaudharyy&layout=compact&theme=tokyonight)
 
 ---
 
