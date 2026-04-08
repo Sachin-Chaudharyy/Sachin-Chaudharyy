@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Sachin Chaudhary
 
-<!--
-**Sachin-Chaudharyy/Sachin-Chaudharyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | 🤖 ML Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Engineering Student  
+- 🌱 Currently learning: Spring Boot & Machine Learning  
+- 💡 Interested in building real-world impactful projects  
+- ⚡ Goal: Become a strong Full Stack + ML developer  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, Java, JavaScript  
+- ⚙️ Backend: Spring Boot  
+- 📊 Tools: Git, GitHub, Streamlit  
+- 🗄️ Database: SQL  
+
+---
+
+## 🚀 Projects
+### ❤️ Heart Disease Prediction
+- ML model to predict heart disease risk  
+- Built with Python, Streamlit  
+- 🔗 GitHub: https://share.google/u0sPKQAHKrQLEV31U  
+
+---
+
+## 📊 GitHub Stats
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin-Chaudharyy&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sachin-Chaudharyy&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Chaudharyy&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/Sachin-Chaudharyy  
+- LinkedIn: https://www.linkedin.com/in/sachin-chaudhary-659189338?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+
+---
+
+⭐️ From Sachin Chaudhary
