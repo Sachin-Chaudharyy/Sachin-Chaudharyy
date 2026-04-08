@@ -31,6 +31,7 @@
 - 📊 Includes risk categorization & recommendations  
 
 🔗 GitHub Repo: https://github.com/Sachin-Chaudharyy/heart-disease-prediction 
+
 🌐 Live App: https://heart-disease-prediction-001.streamlit.app/
 
 ---
